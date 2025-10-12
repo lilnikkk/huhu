@@ -27,7 +27,7 @@ module.exports = {
   
     {
       name: "Main",
-      host: "lavalinkv4.serenetia.com",
+      host: "lava-all.ajieblogs.eu.org",
       password: "https://dsc.gg/ajidevserver",
       port: 80,
       secure: false,
